@@ -1,0 +1,18 @@
+
+.container-fluid {
+    background-color: darkcyan;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.grey {
+    background-color: rgb(96, 93, 93);
+}
+
+.blue {
+    background-color: blue;
+}
+
+.space {
+    margin-top: 100px;
+}
